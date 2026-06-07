@@ -54,8 +54,8 @@ similarly log-transformed.
 
 ## Files
 
-- `DiMarco_Sofia.R` — full analysis script.
-- `report.pdf` — written report with figures and discussion.
+- `innovation-patents-r.R` — full analysis script.
+- `innovation-patents-r.pdf` — written report with figures and discussion.
 
 ## How to run
 
